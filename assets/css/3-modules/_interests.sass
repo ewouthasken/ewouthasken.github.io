@@ -1,0 +1,37 @@
+#interests
+	background: $accent-color
+
+.interests
+	padding: 90px
+	+display(flex)
+	margin: 0 auto
+	+justify-content(space-around)
+	
+	p
+		color: $bg-color
+		font-size: 16px
+		text-align: center
+		width: 220px
+		
+		span
+			font-weight: 400
+			font-style: italic
+	
+	#picto
+		+size(75px)
+		margin: auto
+		margin-bottom: 2em
+		
+		svg
+			+size(75px)
+		
+@media (max-width: 640px)
+	.interests
+		padding: 9%
+		+display(block)
+		
+		#picto
+			margin: 10% auto
+		
+		p
+			width: auto	

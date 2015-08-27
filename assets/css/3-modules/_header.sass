@@ -1,0 +1,53 @@
+header
+	background: $accent-color
+	padding-bottom: 250px
+	
+	nav
+		float: right
+		padding: 40px 40px 0 0
+		
+		a
+			display-inline: block
+			padding-left: 15px
+			text-transform: uppercase
+			color: $bg-color
+			font-weight: 700
+			font-size: 16px
+			letter-spacing: -0.5px
+		
+		a:hover, a:focus
+			color: $bg-color
+
+	h1
+		font-size: 68px
+		text-align: center
+		line-height: 1.3em
+		padding-top: 250px
+		clear: both
+		
+		span
+			display: inline-block
+			padding: 0em 0.2em 0.1em 0.2em
+			border: white solid 0.15em
+	
+	h3
+		text-align: center
+
+
+@media (max-width: 640px)
+	header
+		padding-bottom: 70%
+		
+		nav
+			float: none
+			text-align: center
+			padding: 40px 0 0 0
+			
+			a
+				padding: 0 2%
+		
+		h1
+			padding-top: 40%
+		
+		h3
+			font-size: 15px

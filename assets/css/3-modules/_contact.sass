@@ -1,0 +1,51 @@
+.contact
+	padding: 90px
+	
+	h2
+		text-align: center
+		margin-top: auto
+	
+	h4
+		text-align: center
+		margin: auto
+		
+	p
+		text-align: center
+	
+	form
+		max-width: 540px
+		margin: 90px auto
+		
+		input, textarea
+			border: 1px solid $text-color
+			width: 100%
+			padding: 10px
+			margin-bottom: 30px
+			+box-sizing(border-box)
+			
+			&:focus
+				outline: none
+				border-color: $accent-color
+		
+		[type="submit"]
+			text-transform: uppercase
+			background: $bg-color
+			font-weight: 700
+			font-size: 20px
+			width: 154px
+			color: $accent-color
+			border: 3.5px solid $accent-color
+			padding: 0.05em 0.7em
+			float: right
+			
+			&:hover
+				background: $accent-color
+				color: $bg-color
+				
+		textarea
+			height: 12em
+			resize: none
+				
+@media (max-width: 640px)
+	.contact
+		padding: 9%

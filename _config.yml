@@ -1,0 +1,66 @@
+# Site settings
+#-----------------------
+# Header
+
+title: Ewout Hasken
+description: History // Creative // Politics
+
+#--------------------
+
+# About
+about-title: Ik ben goed
+
+about-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis felis sit amet ante finibus pulvinar. Donec et faucibus lorem. Donec justo risus, ultrices nec maximus in, rhoncus eu nibh. Aenean eget feugiat orci, quis mollis arcu. Proin quis justo ultrices urna malesuada semper at et turpis. Ut ornare faucibus.m ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis felis sit amet ante finibus pulvinar. Donec et faucibus lorem.
+
+#----------------------
+
+# Interests
+
+interests-left-keyword: History 
+interests-left: nisl nisi, congue eget ex quis, molestie gravida elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam bibendum ante ut erat ultricies, at porttitor purus porta. Sed vel urna ut libero pellentesque luctus eu ac quam. Curabitur sit amet.
+
+interests-center-keyword: Creative 
+interests-center: mollis arcu. Proin quis justo ultrices urna malesuada semper at et turpis. Ut ornare faucibus.m ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis felis sit amet ante finibus pulvinar. Donec et faucibus lorem.
+
+interests-right-keyword: Politics 
+interests-right: enatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam bibendum ante ut erat ultricies, at porttitor purus porta. Sed vel urna ut libero pellentesque luctus eu ac quam. Curabitur sit amet.
+
+#----------------------
+
+# Skills
+
+skills-title: Pulvinar Finibus Ante
+
+skills-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis felis sit amet ante finibus pulvinar. Donec et faucibus lorem. Donec justo risus, ultrices nec maximus in, rhoncus eu nibh. Aenean eget feugiat orci, quis mollis arcu. Proin quis justo ultrices urna malesuada semper at et turpis. Ut ornare faucibus.m ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis felis sit amet ante finibus pulvinar. Donec et faucibus lorem.
+
+#----------------------
+
+# CV
+
+cv-title: Amet Sit Favcibus
+
+cv-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis felis sit amet ante finibus pulvinar. Donec et faucibus lorem.
+
+cv: 'pdf/cv.pdf'
+
+#----------------------
+
+# Contact
+
+contact-title: lorem et ante faucibus
+
+contact-text: Aenean convallis felis sit amet ante finibus pulvinar.
+
+#----------------------
+
+
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+
+port: 3000
+
+sass:
+  sass_dir: assets/css
+  style: :nested

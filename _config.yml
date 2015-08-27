@@ -1,3 +1,16 @@
+# Build settings
+
+markdown: redcarpet
+permalink: pretty
+baseurl: /site
+exclude: ['README.md']
+
+port: 3000
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
 # Site settings
 #-----------------------
 # Header
@@ -52,15 +65,3 @@ contact-title: lorem et ante faucibus
 contact-text: Aenean convallis felis sit amet ante finibus pulvinar.
 
 #----------------------
-
-
-# Build settings
-
-markdown: kramdown
-permalink: pretty
-
-port: 3000
-
-sass:
-  sass_dir: assets/css
-  style: :nested

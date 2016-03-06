@@ -21,23 +21,15 @@ description: History // Creative // Politics
 #--------------------
 
 # About
-about-title: Phasels vel ligula
+about-title: Versatile and engaged
 
-about-text: Ik ben een energieke, jonge historicus en politicoloog die graag zijn tanden zet in complexe vraagstukken. In mijn studies heb ik met veel enthousiasme kennis en onderzoeksvaardigheden opgedaan. Dankzij mijn werkervaring en diverse nevenfuncties heb ik veel contacten gemaakt en beleidservaring verkregen. Ik beschik over een groot verantwoordelijkheidsgevoel en ben vaardig in het stimuleren en enthousiasmeren van mensen. Mijn diverse ervaring heeft mij initiatiefrijk, stressbestendig en flexibel gemaakt. Daarnaast heb ik een passie voor wetenschappelijk onderzoek waarin ik mijn twee disciplines kan combineren. Ik wil mij daarom ook ontplooien als onderzoeker met een frisse blik op de zaak.
+about-text: I am Ewout, an energetic young historian and political scientist. I am a keen researcher who likes to untangle complex historical events and their impact on current affairs. I want to fathom past human actions and behaviour, and understand how these actions have shaped and influenced the world around us. Besides being an avid researcher I am an engaged student who contributes not only to the academic community but society at large. I have been part of numerous committees and have been a board member of different associations. My experiences, academic or in working capacity, have made me resourceful, stress resistant and versatile.
 
 
 #----------------------
 
 # Interests
 
-interests-left-keyword: History 
-interests-left: nisl nisi, congue eget ex quis, molestie gravida elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam bibendum ante ut erat ultricies, at porttitor purus porta. Sed vel urna ut libero pellentesque luctus eu ac quam. Curabitur sit amet.
-
-interests-center-keyword: Creative 
-interests-center: mollis arcu. Proin quis justo ultrices urna malesuada semper at et turpis. Ut ornare faucibus.m ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis felis sit amet ante finibus pulvinar. Donec et faucibus lorem.
-
-interests-right-keyword: Politics 
-interests-right: enatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam bibendum ante ut erat ultricies, at porttitor purus porta. Sed vel urna ut libero pellentesque luctus eu ac quam. Curabitur sit amet.
 
 #----------------------
 
@@ -45,13 +37,13 @@ interests-right: enatibus et magnis dis parturient montes, nascetur ridiculus mu
 
 skills-title: Pulvinar Finibus Ante
 
-skills-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis felis sit amet ante finibus pulvinar. Donec et faucibus lorem. Donec justo risus, ultrices nec maximus in, rhoncus eu nibh. Aenean eget feugiat orci, quis mollis arcu. Proin quis justo ultrices urna malesuada semper at et turpis. Ut ornare faucibus.m ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis felis sit amet ante finibus pulvinar. Donec et faucibus lorem.
+skills-text: I am a versatile researcher with a variety of different skills ranging from policy making to research. Since I have read history and political science, I am trained in the research traditions of both humanities and social sciences. I have experience with qualitative and quantitative research, as well as statistical analyses. I am also trained in interpretative research methods and critical source analysis. This combination of academic skills enables me to use an interdisciplinary approach to research. In the past I have for example examined the influence of framing as a sociological concept on memories of war. Besides these academic skills I am experienced in policy processes.
 
 #----------------------
 
 # CV
 
-cv-title: Amet Sit Favcibus
+cv-title: Academic and professional
 
 cv-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis felis sit amet ante finibus pulvinar. Donec et faucibus lorem.
 
@@ -61,8 +53,8 @@ cv: 'assets/pdf/CV_Ewout_Hasken.pdf'
 
 # Contact
 
-contact-title: lorem et ante faucibus
+contact-title: get in touch
 
-contact-text: Aenean convallis felis sit amet ante finibus pulvinar.
+contact-text: Use the form below and I will get back to you.
 
 #----------------------

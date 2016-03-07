@@ -1,6 +1,7 @@
 $( document ).ready(function() {
 
 	$("header h1").fitText(1.2, { minFontSize: '20px', maxFontSize: '68px' });
+	$("h2").fitText(1.2, { minFontSize: '28px', maxFontSize: '48px' });
 
   //
 

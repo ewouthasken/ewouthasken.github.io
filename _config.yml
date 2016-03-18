@@ -2,7 +2,7 @@
 
 markdown: redcarpet
 permalink: pretty
-baseurl: /site
+baseurl: 
 exclude: ['README.md']
 
 port: 3000
